@@ -10,7 +10,7 @@ public class ATM {
 
         int count = 0;
         while (sum >= 500){
-            sum-=500;
+            sum-=5000;
             count++;
         }
         while (sum >= 200){
